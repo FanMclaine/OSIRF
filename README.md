@@ -1,5 +1,8 @@
 # 🔍 Automated Reconnaissance & OSINT Framework for Passive Footprinting
 
+<img width="848" height="715" alt="image" src="https://github.com/user-attachments/assets/912bba43-59fc-43e7-bcec-7dbbfdf0d906" />
+
+
 A Python-based command-line tool that automates passive reconnaissance on a target domain — aggregating WHOIS data, DNS records, HTTP security header analysis, and Shodan intelligence into a structured terminal report.
 
 Built as a portfolio project to demonstrate practical offensive security tooling and OSINT methodology.
