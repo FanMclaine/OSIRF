@@ -1,39 +1,12 @@
 # 🔍 Automated Reconnaissance & OSINT Framework for Passive Footprinting
 
-<img width="848" height="715" alt="image" src="https://github.com/user-attachments/assets/912bba43-59fc-43e7-bcec-7dbbfdf0d906" />
+<img width="480" height="437" alt="image" src="https://github.com/user-attachments/assets/372d3e90-a1df-4f46-9ca8-bb0d7f834227" />
+
 
 
 A Python-based command-line tool that automates passive reconnaissance on a target domain — aggregating WHOIS data, DNS records, HTTP security header analysis, and Shodan intelligence into a structured terminal report.
 
 Built as a portfolio project to demonstrate practical offensive security tooling and OSINT methodology.
-
----
-
-## 📸 Preview
-
-```
-╔══════════════════════════════════════════════════╗
-║   OSIRF - OSINT RECONNAISSANCE FRAMEWORK  v1.0   ║
-║   Passive Footprinting & Attack Surface Map      ║
-╚══════════════════════════════════════════════════╝
-
-  Target: google.com
-
-⠋ Running WHOIS Lookup...
-⠋ Enumerating DNS Records...
-⠋ Analyzing HTTP Headers...
-⠋ Querying Shodan Intelligence...
-
-━━━━━━━━━━━━━━━━━━━━ RESULTS ━━━━━━━━━━━━━━━━━━━━
-
-┌─────────────────── WHOIS Lookup ───────────────────┐
-│ Field             │ Value                           │
-│ registrar         │ MarkMonitor, Inc.               │
-│ creation_date     │ 1997-09-15                      │
-│ expiration_date   │ 2028-09-14                      │
-│ org               │ Google LLC                      │
-└───────────────────┴─────────────────────────────────┘
-```
 
 ---
 
